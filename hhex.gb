@@ -1,0 +1,238 @@
+LOCUS       NM_002729               1724 bp    mRNA    linear   PRI 24-DEC-2022
+DEFINITION  Homo sapiens hematopoietically expressed homeobox (HHEX), mRNA.
+ACCESSION   NM_002729 NM_001529
+VERSION     NM_002729.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1724)
+  AUTHORS   Guo Y, Zhu Z, Huang Z, Cui L, Yu W, Hong W, Zhou Z, Du P and Liu
+            CY.
+  TITLE     CK2-induced cooperation of HHEX with the YAP-TEAD4 complex promotes
+            colorectal tumorigenesis
+  JOURNAL   Nat Commun 13 (1), 4995 (2022)
+   PUBMED   36008411
+  REMARK    GeneRIF: CK2-induced cooperation of HHEX with the YAP-TEAD4 complex
+            promotes colorectal tumorigenesis.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1724)
+  AUTHORS   Gonzalez-Jimenez A, Lopez-Cotarelo P, Agudo-Jimenez T,
+            Martinez-Gines M, Garcia-Dominguez JM, Urcelay E and Espino-Paisan
+            L.
+  TITLE     Unraveling the Influence of HHEX Risk Polymorphism rs7923837 on
+            Multiple Sclerosis Pathogenesis
+  JOURNAL   Int J Mol Sci 23 (14), 7956 (2022)
+   PUBMED   35887298
+  REMARK    GeneRIF: Unraveling the Influence of HHEX Risk Polymorphism
+            rs7923837 on Multiple Sclerosis Pathogenesis.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1724)
+  AUTHORS   King HW, Wells KL, Shipony Z, Kathiria AS, Wagar LE, Lareau C,
+            Orban N, Capasso R, Davis MM, Steinmetz LM, James LK and Greenleaf
+            WJ.
+  TITLE     Integrated single-cell transcriptomics and epigenomics reveals
+            strong germinal center-associated etiology of autoimmune risk loci
+  JOURNAL   Sci Immunol 6 (64), eabh3768 (2021)
+   PUBMED   34623901
+  REMARK    GeneRIF: Integrated single-cell transcriptomics and epigenomics
+            reveals strong germinal center-associated etiology of autoimmune
+            risk loci.
+REFERENCE   4  (bases 1 to 1724)
+  AUTHORS   Li X, Ma G, Guo W, Mu N, Wang Y, Liu X and Su L.
+  TITLE     Hhex inhibits cell migration via regulating RHOA/CDC42-CFL1 axis in
+            human lung cancer cells
+  JOURNAL   Cell Commun Signal 19 (1), 80 (2021)
+   PUBMED   34321041
+  REMARK    GeneRIF: Hhex inhibits cell migration via regulating
+            RHOA/CDC42-CFL1 axis in human lung cancer cells.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1724)
+  AUTHORS   Haenig C, Atias N, Taylor AK, Mazza A, Schaefer MH, Russ J,
+            Riechers SP, Jain S, Coughlin M, Fontaine JF, Freibaum BD,
+            Brusendorf L, Zenkner M, Porras P, Stroedicke M, Schnoegl S,
+            Arnsburg K, Boeddrich A, Pigazzini L, Heutink P, Taylor JP,
+            Kirstein J, Andrade-Navarro MA, Sharan R and Wanker EE.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   6  (bases 1 to 1724)
+  AUTHORS   Manfioletti G, Gattei V, Buratti E, Rustighi A, De Iuliis A,
+            Aldinucci D, Goodwin GH and Pinto A.
+  TITLE     Differential expression of a novel proline-rich homeobox gene (Prh)
+            in human hematolymphopoietic cells
+  JOURNAL   Blood 85 (5), 1237-1245 (1995)
+   PUBMED   7858254
+REFERENCE   7  (bases 1 to 1724)
+  AUTHORS   Neidle S and Goodwin GH.
+  TITLE     A homology-based molecular model of the proline-rich homeodomain
+            protein Prh, from haematopoietic cells
+  JOURNAL   FEBS Lett 345 (2-3), 93-98 (1994)
+   PUBMED   7911091
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 1724)
+  AUTHORS   Hromas R, Radich J and Collins S.
+  TITLE     PCR cloning of an orphan homeobox gene (PRH) preferentially
+            expressed in myeloid and liver cells
+  JOURNAL   Biochem Biophys Res Commun 195 (2), 976-983 (1993)
+   PUBMED   8103988
+REFERENCE   9  (bases 1 to 1724)
+  AUTHORS   Bedford FK, Ashworth A, Enver T and Wiedemann LM.
+  TITLE     HEX: a novel homeobox gene expressed during haematopoiesis and
+            conserved between mouse and human
+  JOURNAL   Nucleic Acids Res 21 (5), 1245-1249 (1993)
+   PUBMED   8096636
+REFERENCE   10 (bases 1 to 1724)
+  AUTHORS   Crompton MR, Bartlett TJ, MacGregor AD, Manfioletti G, Buratti E,
+            Giancotti V and Goodwin GH.
+  TITLE     Identification of a novel vertebrate homeobox gene expressed in
+            haematopoietic cells
+  JOURNAL   Nucleic Acids Res 20 (21), 5661-5667 (1992)
+   PUBMED   1360645
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC015110.1 and BM543214.1.
+            
+            On Nov 22, 2018 this sequence version replaced NM_002729.4.
+            
+            Summary: This gene encodes a member of the homeobox family of
+            transcription factors, many of which are involved in developmental
+            processes. Expression in specific hematopoietic lineages suggests
+            that this protein may play a role in hematopoietic differentiation.
+            [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC050638.1, BC015110.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000282728.10/ ENSP00000282728.5
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1723              BC015110.1         5-1727
+            1724-1724           BM543214.1         247-247
+FEATURES             Location/Qualifiers
+     source          1..1724
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q23.33"
+     gene            1..1724
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="hematopoietically expressed homeobox"
+                     /db_xref="GeneID:3087"
+                     /db_xref="HGNC:HGNC:4901"
+                     /db_xref="MIM:604420"
+     exon            1..393
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             33..845
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="homeobox, hematopoietically expressed; proline-rich
+                     homeodomain-containing transcription factor; homeobox
+                     protein HEX; homeobox protein PRH"
+                     /codon_start=1
+                     /product="hematopoietically-expressed homeobox protein
+                     HHEX"
+                     /protein_id="NP_002720.1"
+                     /db_xref="CCDS:CCDS7423.1"
+                     /db_xref="GeneID:3087"
+                     /db_xref="HGNC:HGNC:4901"
+                     /db_xref="MIM:604420"
+                     /translation="MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAA
+                     PTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYP
+                     FPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQK
+                     YLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQR
+                     QDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG"
+     misc_feature    33..443
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q03014.1);
+                     Region: Interaction with SOX13.
+                     /evidence=ECO:0000269|PubMed:20028982"
+     misc_feature    189..191
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (Q03014.1); phosphorylation site"
+     misc_feature    441..842
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q03014.1);
+                     Region: Required for WNT signaling induction.
+                     /evidence=ECO:0000269|PubMed:20028982"
+     misc_feature    612..842
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q03014.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            394..572
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            573..623
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            624..1724
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1692..1697
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="hexamer: AATAAA"
+     polyA_site      1724
+                     /gene="HHEX"
+                     /gene_synonym="HEX; HMPH; HOX11L-PEN; PRH; PRHX"
+                     /note="major polyA site"
+ORIGIN      
+        1 agctctgcga ggggccggag cgcggcggag ccatgcagta cccgcacccc gggccggcgg
+       61 cgggcgccgt gggggtgccg ctgtacgcgc ccacgccgct gctgcaaccc gcacacccga
+      121 cgccctttta catcgaggac atcctgggcc gcgggcccgc cgcgcccacg cccgccccca
+      181 cgctgccgtc ccccaactcc tccttcacca gcctcgtgtc cccctaccgg accccggtgt
+      241 acgagcccac gccgatccat ccagccttct cgcaccactc cgccgccgcg ctggccgctg
+      301 cctacggacc cggcggcttc gggggccctc tgtacccctt cccgcggacg gtgaacgact
+      361 acacgcacgc cctgctccgc cacgaccccc tgggcaaacc tctactctgg agccccttct
+      421 tgcagaggcc tctgcataaa aggaaaggcg gccaggtgag attctccaac gaccagacca
+      481 tcgagctgga gaagaaattc gagacgcaga aatatctctc tccgcccgag aggaagcgtc
+      541 tggccaagat gctgcagctc agcgagagac aggtcaaaac ctggtttcag aatcgacgcg
+      601 ctaaatggag gagactaaaa caggagaacc ctcaaagcaa taaaaaagaa gaactggaaa
+      661 gtttggacag ttcctgtgat cagaggcaag atttgcccag tgaacagaat aaaggtgctt
+      721 ctttggatag ctctcaatgt tcgccctccc ctgcctccca ggaagacctt gaatcagaga
+      781 tttcagagga ttctgatcag gaagtggaca ttgagggcga taaaagctat tttaatgctg
+      841 gatgatgacc actggcattg gcatgttcag aaaactggat ttaggaataa tgttttgcta
+      901 cagaaaatct tcatagaaga actggaaggc tatataagaa agggaatcaa ttctctggta
+      961 ttctggaaac ctaaaaatat ttggtgcact gctcaattaa caaacctaca tggagacctt
+     1021 aattttgact taacaaatag tttatgtact gctcttaggt tgttttgata aagtgacatt
+     1081 atagtgatta aattcttccc cctttaaaaa aacagttagt ggttttcact atttataaaa
+     1141 aattaatttt gaactttttg ttaaattttt aagttatagc tttaaaggtt ttaataggac
+     1201 cttcttgaac gacttttctg taatctgttt atctcccact taatggaaag gcaaaggggt
+     1261 accccaaatc cagaggtgcc tacatttcag gcagccttgg agtattttaa aaggaaaaca
+     1321 ttctttactt ttatatgaca ttcttatact gctgtctcaa atccaaaaac atttcagagc
+     1381 tcttgtctca gagatgtgtg ttctttttgt cagagatatg gttgatgaga atcttaaatg
+     1441 cttgttttgc actatcactt agtacctgtt tgaccaaggt gttaagggga tagtacctcc
+     1501 caattcaagc agagaaactg acctgactaa agttaatcgc agatgaacta gaagtcacag
+     1561 gttaattaaa tgtaagtaga ttgtagatac tgttttatat caaacaatgt ttataatgtg
+     1621 tatatagaat tgttcactgt aaaaaaaatg gccaaaatgt gttttttttt taataagtaa
+     1681 cttgactata aaataaagcc gtccgtggga cgactgacct cgtt
+//
+
