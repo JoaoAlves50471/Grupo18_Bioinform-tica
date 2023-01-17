@@ -1,0 +1,424 @@
+LOCUS       NM_000545               3442 bp    mRNA    linear   PRI 08-JAN-2023
+DEFINITION  Homo sapiens HNF1 homeobox A (HNF1A), transcript variant 2, mRNA.
+ACCESSION   NM_000545
+VERSION     NM_000545.8
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3442)
+  AUTHORS   Stalbow LA, Preuss MH, Smit RAJ, Chami N, Bjorkhaug L, Aukrust I,
+            Gloyn AL and Loos RJF.
+  TITLE     The contribution of functional HNF1A variants and polygenic
+            susceptibility to risk of type 2 diabetes in ancestrally diverse
+            populations
+  JOURNAL   Diabetologia 66 (1), 116-126 (2023)
+   PUBMED   36216889
+  REMARK    GeneRIF: The contribution of functional HNF1A variants and
+            polygenic susceptibility to risk of type 2 diabetes in ancestrally
+            diverse populations.
+REFERENCE   2  (bases 1 to 3442)
+  AUTHORS   Argemi J, Kedia K, Gritsenko MA, Clemente-Sanchez A, Asghar A,
+            Herranz JM, Liu ZX, Atkinson SR, Smith RD, Norden-Krichmar TM, Day
+            LZ, Stolz A, Tayek JA, Bataller R, Morgan TR and Jacobs JM.
+  CONSRTM   Southern California Alcoholic Hepatitis Consortium and the InTeam
+            Consortium
+  TITLE     Integrated Transcriptomic and Proteomic Analysis Identifies Plasma
+            Biomarkers of Hepatocellular Failure in Alcohol-Associated
+            Hepatitis
+  JOURNAL   Am J Pathol 192 (12), 1658-1669 (2022)
+   PUBMED   36243044
+  REMARK    GeneRIF: Integrated Transcriptomic and Proteomic Analysis
+            Identifies Plasma Biomarkers of Hepatocellular Failure in
+            Alcohol-Associated Hepatitis.
+REFERENCE   3  (bases 1 to 3442)
+  AUTHORS   Beucher A, Miguel-Escalada I, Balboa D, De Vas MG, Maestro MA,
+            Garcia-Hurtado J, Bernal A, Gonzalez-Franco R, Vargiu P, Heyn H,
+            Ravassard P, Ortega S and Ferrer J.
+  TITLE     The HASTER lncRNA promoter is a cis-acting transcriptional
+            stabilizer of HNF1A
+  JOURNAL   Nat Cell Biol 24 (10), 1528-1540 (2022)
+   PUBMED   36202974
+  REMARK    GeneRIF: The HASTER lncRNA promoter is a cis-acting transcriptional
+            stabilizer of HNF1A.
+REFERENCE   4  (bases 1 to 3442)
+  AUTHORS   Liang T, Wang X, Liu Y, Ai H, Wang Q, Wang X, Wei X, Song Y and Yin
+            Q.
+  TITLE     Decreased TCF1 and BCL11B expression predicts poor prognosis for
+            patients with chronic lymphocytic leukemia
+  JOURNAL   Front Immunol 13, 985280 (2022)
+   PUBMED   36211334
+  REMARK    GeneRIF: Decreased TCF1 and BCL11B expression predicts poor
+            prognosis for patients with chronic lymphocytic leukemia.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3442)
+  AUTHORS   Lau HH, Ng NHJ, Loo LSW, Jasmen JB and Teo AKK.
+  TITLE     The molecular functions of hepatocyte nuclear factors - In and
+            beyond the liver
+  JOURNAL   J Hepatol 68 (5), 1033-1048 (2018)
+   PUBMED   29175243
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 3442)
+  AUTHORS   Anik,A., Catli,G., Abaci,A. and Bober,E.
+  TITLE     Maturity-onset diabetes of the young (MODY): an update
+  JOURNAL   J Pediatr Endocrinol Metab 28 (3-4), 251-263 (2015)
+   PUBMED   25581748
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 3442)
+  AUTHORS   Naylor,R., Knight Johnson,A. and del Gaudio,D.
+  TITLE     Maturity-Onset Diabetes of the Young Overview
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   29792621
+REFERENCE   8  (bases 1 to 3442)
+  AUTHORS   Szpirer C, Riviere M, Cortese R, Nakamura T, Islam MQ, Levan G and
+            Szpirer J.
+  TITLE     Chromosomal localization in man and rat of the genes encoding the
+            liver-enriched transcription factors C/EBP, DBP, and HNF1/LFB-1
+            (CEBP, DBP, and transcription factor 1, TCF1, respectively) and of
+            the hepatocyte growth factor/scatter factor gene (HGF)
+  JOURNAL   Genomics 13 (2), 293-300 (1992)
+   PUBMED   1535333
+REFERENCE   9  (bases 1 to 3442)
+  AUTHORS   Bach I, Mattei MG, Cereghini S and Yaniv M.
+  TITLE     Two members of an HNF1 homeoprotein family are expressed in human
+            liver
+  JOURNAL   Nucleic Acids Res 19 (13), 3553-3559 (1991)
+   PUBMED   1677179
+REFERENCE   10 (bases 1 to 3442)
+  AUTHORS   Bach I, Galcheva-Gargova Z, Mattei MG, Simon-Chazottes D, Guenet
+            JL, Cereghini S and Yaniv M.
+  TITLE     Cloning of human hepatic nuclear factor 1 (HNF1) and chromosomal
+            localization of its gene in man and mouse
+  JOURNAL   Genomics 8 (1), 155-164 (1990)
+   PUBMED   1707031
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC079602.15.
+            
+            On Nov 30, 2019 this sequence version replaced NM_000545.7.
+            
+            Summary: The protein encoded by this gene is a transcription factor
+            required for the expression of several liver-specific genes. The
+            encoded protein functions as a homodimer and binds to the inverted
+            palindrome 5'-GTTAATNATTAAC-3'. Defects in this gene are a cause of
+            maturity onset diabetes of the young type 3 (MODY3) and also can
+            result in the appearance of hepatic adenomas. Alternative splicing
+            results in multiple transcript variants encoding different
+            isoforms. [provided by RefSeq, Apr 2015].
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038193.531452.1, M57732.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968540, SAMEA1970526
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000257555.11/ ENSP00000257555.5
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-552               AC079602.15        159851-160402       c
+            553-752             AC079602.15        149913-150112       c
+            753-939             AC079602.15        145239-145425       c
+            940-1181            AC079602.15        144540-144781       c
+            1182-1333           AC079602.15        142532-142683       c
+            1334-1535           AC079602.15        142203-142404       c
+            1536-1727           AC079602.15        141280-141471       c
+            1728-1849           AC079602.15        139556-139677       c
+            1850-1994           AC079602.15        139318-139462       c
+            1995-3442           AC079602.15        136433-137880       c
+FEATURES             Location/Qualifiers
+     source          1..3442
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q24.31"
+     gene            1..3442
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="HNF1 homeobox A"
+                     /db_xref="GeneID:6927"
+                     /db_xref="HGNC:HGNC:11621"
+                     /db_xref="MIM:142410"
+     exon            1..552
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    11..13
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="upstream in-frame stop codon"
+     CDS             227..2122
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     hepatic nuclear factor 1; albumin proximal factor;
+                     hepatocyte nuclear factor 1-alpha; transcription factor 1,
+                     hepatic; interferon production regulator factor;
+                     liver-specific transcription factor LF-B1"
+                     /codon_start=1
+                     /product="hepatocyte nuclear factor 1-alpha isoform 2"
+                     /protein_id="NP_000536.6"
+                     /db_xref="CCDS:CCDS9209.1"
+                     /db_xref="GeneID:6927"
+                     /db_xref="HGNC:HGNC:11621"
+                     /db_xref="MIM:142410"
+                     /translation="MVSKLSQLQTELLAALLESGLSKEALIQALGEPGPYLLAGEGPL
+                     DKGESCGGGRGELAELPNGLGETRGSEDETDDDGEDFTPPILKELENLSPEEAAHQKA
+                     VVETLLQEDPWRVAKMVKSYLQQHNIPQREVVDTTGLNQSHLSQHLNKGTPMKTQKRA
+                     ALYTWYVRKQREVAQQFTHAGQGGLIEEPTGDELPTKKGRRNRFKWGPASQQILFQAY
+                     ERQKNPSKEERETLVEECNRAECIQRGVSPSQAQGLGSNLVTEVRVYNWFANRRKEEA
+                     FRHKLAMDTYSGPPPGPGPGPALPAHSSPGLPPPALSPSKVHGVRYGQPATSETAEVP
+                     SSSGGPLVTVSTPLHQVSPTGLEPSHSLLSTEAKLVSAAGGPLPPVSTLTALHSLEQT
+                     SPGLNQQPQNLIMASLPGVMTIGPGEPASLGPTFTNTGASTLVIGLASTQAQSVPVIN
+                     SMGSSLTTLQPVQFSQPLHPSYQQPLMPPVQSHVTQSPFMATMAQLQSPHALYSHKPE
+                     VAQYTHTGLLPQTMLITDTTNLSALASLTPTKQVFTSDTEASSESGLHTPASQATTLH
+                     VPSQDPASIQHLQPAHRLSASPTVSSSSLVLYQSSDSSNGQSHLLPSNHSVIETFIST
+                     QMASSSQ"
+     misc_feature    227..319
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Dimerization"
+     misc_feature    344..469
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    434..436
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P22361; propagated from
+                     UniProtKB/Swiss-Prot (P20823.2); phosphorylation site"
+     misc_feature    446..448
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P22361; propagated from
+                     UniProtKB/Swiss-Prot (P20823.2); phosphorylation site"
+     misc_feature    503..505
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P20823.2); phosphorylation site"
+     misc_feature    614..622
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    653..673
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    689..700
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    773..841
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    815..841
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Nuclear localization signal.
+                     /evidence=ECO:0000305"
+     misc_feature    833..844
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    965..967
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P20823.2); phosphorylation site"
+     misc_feature    1013..1021
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    1034..1045
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Interaction with DNA"
+     misc_feature    1073..1300
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1163..1165
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P22361; propagated from
+                     UniProtKB/Swiss-Prot (P20823.2); phosphorylation site"
+     misc_feature    1859..1945
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P20823.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            553..752
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            753..939
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            940..1181
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1182..1333
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1334..1535
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1536..1727
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1728..1849
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1850..1994
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1995..3442
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3414..3419
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="hexamer: AGTAAA"
+     polyA_site      3442
+                     /gene="HNF1A"
+                     /gene_synonym="HNF-1-alpha; HNF-1A; HNF1; HNF1alpha;
+                     HNF4A; IDDM20; LFB1; MODY3; TCF-1; TCF1"
+                     /note="major polyA site"
+ORIGIN      
+        1 agctccaatg taaacagaac aggcaggggc cctgattcac gggccgctgg ggccagggtt
+       61 gggggttggg ggtgcccaca gggcttggct agtggggttt tgggggggca gtgggtgcaa
+      121 ggagtttggt ttgtgtctgc cggccggcag gcaaacgcaa cccacgcggt gggggaggcg
+      181 gctagcgtgg tggacccggg ccgcgtggcc ctgtggcagc cgagccatgg tttctaaact
+      241 gagccagctg cagacggagc tcctggcggc cctgctcgag tcagggctga gcaaagaggc
+      301 actgatccag gcactgggtg agccggggcc ctacctcctg gctggagaag gccccctgga
+      361 caagggggag tcctgcggcg gcggtcgagg ggagctggct gagctgccca atgggctggg
+      421 ggagactcgg ggctccgagg acgagacgga cgacgatggg gaagacttca cgccacccat
+      481 cctcaaagag ctggagaacc tcagccctga ggaggcggcc caccagaaag ccgtggtgga
+      541 gacccttctg caggaggacc cgtggcgtgt ggcgaagatg gtcaagtcct acctgcagca
+      601 gcacaacatc ccacagcggg aggtggtcga taccactggc ctcaaccagt cccacctgtc
+      661 ccaacacctc aacaagggca ctcccatgaa gacgcagaag cgggccgccc tgtacacctg
+      721 gtacgtccgc aagcagcgag aggtggcgca gcagttcacc catgcagggc agggagggct
+      781 gattgaagag cccacaggtg atgagctacc aaccaagaag gggcggagga accgtttcaa
+      841 gtggggccca gcatcccagc agatcctgtt ccaggcctat gagaggcaga agaaccctag
+      901 caaggaggag cgagagacgc tagtggagga gtgcaatagg gcggaatgca tccagagagg
+      961 ggtgtcccca tcacaggcac aggggctggg ctccaacctc gtcacggagg tgcgtgtcta
+     1021 caactggttt gccaaccggc gcaaagaaga agccttccgg cacaagctgg ccatggacac
+     1081 gtacagcggg ccccccccag ggccaggccc gggacctgcg ctgcccgctc acagctcccc
+     1141 tggcctgcct ccacctgccc tctcccccag taaggtccac ggtgtgcgct atggacagcc
+     1201 tgcgaccagt gagactgcag aagtaccctc aagcagcggc ggtcccttag tgacagtgtc
+     1261 tacacccctc caccaagtgt cccccacggg cctggagccc agccacagcc tgctgagtac
+     1321 agaagccaag ctggtctcag cagctggggg ccccctcccc cctgtcagca ccctgacagc
+     1381 actgcacagc ttggagcaga catccccagg cctcaaccag cagccccaga acctcatcat
+     1441 ggcctcactt cctggggtca tgaccatcgg gcctggtgag cctgcctccc tgggtcctac
+     1501 gttcaccaac acaggtgcct ccaccctggt catcggcctg gcctccacgc aggcacagag
+     1561 tgtgccggtc atcaacagca tgggcagcag cctgaccacc ctgcagcccg tccagttctc
+     1621 ccagccgctg cacccctcct accagcagcc gctcatgcca cctgtgcaga gccatgtgac
+     1681 ccagagcccc ttcatggcca ccatggctca gctgcagagc ccccacgccc tctacagcca
+     1741 caagcccgag gtggcccagt acacccacac gggcctgctc ccgcagacta tgctcatcac
+     1801 cgacaccacc aacctgagcg ccctggccag cctcacgccc accaagcagg tcttcacctc
+     1861 agacactgag gcctccagtg agtccgggct tcacacgccg gcatctcagg ccaccaccct
+     1921 ccacgtcccc agccaggacc ctgccagcat ccagcacctg cagccggccc accggctcag
+     1981 cgccagcccc acagtgtcct ccagcagcct ggtgctgtac cagagctcag actccagcaa
+     2041 tggccagagc cacctgctgc catccaacca cagcgtcatc gagaccttca tctccaccca
+     2101 gatggcctct tcctcccagt aaccacggca cctgggccct ggggcctgta ctgcctgctt
+     2161 ggggggtgat gagggcagca gccagccctg cctggaggac ctgagcctgc cgagcaaccg
+     2221 tggcccttcc tggacagctg tgcctcgctc cccactctgc tctgatgcat cagaaaggga
+     2281 gggctctgag gcgccccaac ccgtggaggc tgctcggggt gcacaggagg gggtcgtgga
+     2341 gagctaggag caaagcctgt tcatggcaga tgtaggaggg actgtcgctg cttcgtggga
+     2401 tacagtcttc ttacttggaa ctgaaggggg cggcctatga cttgggcacc cccagcctgg
+     2461 gcctatggag agccctggga ccgctacacc actctggcag ccacacttct caggacacag
+     2521 gcctgtgtag ctgtgacctg ctgagctctg agaggccctg gatcagcgtg gccttgttct
+     2581 gtcaccaatg tacccaccgg gccactcctt cctgccccaa ctccttccag ctagtgaccc
+     2641 acatgccatt tgtactgacc ccatcaccta ctcacacagg catttcctgg gtggctactc
+     2701 tgtgccagag cctggggctc taacgcctga gcccagggag gccgaagcta acagggaagg
+     2761 caggcagggc tctcctggct tcccatcccc agcgattccc tctcccaggc cccatgacct
+     2821 ccagctttcc tgtatttgtt cccaagagca tcatgcctct gaggccagcc tggcctcctg
+     2881 cctctactgg gaaggctact tcggggctgg gaagtcgtcc ttactcctgt gggagcctcg
+     2941 caacccgtgc caagtccagg tcctggtggg gcagctcctc tgtctcgagc gccctgcaga
+     3001 ccctgccctt gtttggggca ggagtagctg agctcacaag gcagcaaggc ccgagcagct
+     3061 gagcagggcc ggggaactgg ccaagctgag gtgcccagga gaagaaagag gtgaccccag
+     3121 ggcacaggag ctacctgtgt ggacaggact aacactcaga agcctggggg cctggctggc
+     3181 tgagggcagt tcgcagccac cctgaggagt ctgaggtcct gagcactgcc aggagggaca
+     3241 aaggagcctg tgaacccagg acaagcatgg tcccacatcc ctgggcctgc tgctgagaac
+     3301 ctggccttca gtgtaccgcg tctaccctgg gattcaggaa aaggcctggg gtgacccggc
+     3361 accccctgca gcttgtagcc agccggggcg agtggcacgt ttatttaact tttagtaaag
+     3421 tcaaggagaa atgcggtgga aa
+//
+
